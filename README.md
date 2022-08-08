@@ -14,4 +14,4 @@ to easily crack your personal information unless they have a million of years to
 
 Use of random choices from groups of adjetives, nouns, numbers, and punctuation characters to make a password:
 
-Generating concept goes as follows - adjective + noun + number + punctuation
+Generating concept goes as follows - "adjective + noun + number + punctuation"
